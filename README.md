@@ -312,9 +312,9 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 4a | 1st Favorite emoji | 👍
-4b | Link to `commit #1 from Github.com` |
-4c | Link to markdown tables docs |
-4d | What does `log` do? |
+4b | Link to `commit #1 from Github.com` |[commit #1 from Github.com](Github.com)
+4c | Link to markdown tables docs |[how to use markdown tables](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+4d | What does `log` do? |lists events triggered by activities that affect your organization within the current month and previous six months
 5a | 2nd Favorite emoji |
 5b | Link to `commit #2 from Github Desktop` |
 6a | Full path to your working directory |
